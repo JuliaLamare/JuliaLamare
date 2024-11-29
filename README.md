@@ -3,7 +3,9 @@
 ➙ Sobre mim
 
 🙋🏻‍♀️ me chamo Júlia Lamare de Oliveira.
+
 👤 19 anos.
+
 💻 Segundo semestre do curso de Análise e Desenvolvimento de Sistema na FACENS.
 
 ➙ Skills 
